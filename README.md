@@ -1,4 +1,12 @@
-### Hi there 👋
+# 🧑‍💻 Jeperson Noda
+Hey there! I'm **Jeperson**, an Information Technology student at Colegio De Sta Teresa De Avila Inc. (CSTA) in Quezon City, Philippines. I am fascinated by the world of Web Development and captivated by the possibilities of the Internet of Things (IoT).
+# 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://github.com/jepnoda">
+    <img src="https://skillicons.dev/icons?i=js,java,arduino,mysql,firebase,nodejs,express,astro,react,tailwind,bootstrap,linux,bash,powershell&theme=dark" />
+  </a>
+</p>
 
 <!--
 **jepnoda/jepnoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
