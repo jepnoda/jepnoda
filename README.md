@@ -10,7 +10,7 @@ Hey there! I'm **Jeperson**, an Information Technology student at Colegio De Sta
   </a>
 </p>
 
-## GitHub Stats
+## 🟢 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/jepnoda">
