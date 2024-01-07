@@ -6,7 +6,7 @@ Hey there! I'm **Jeperson**, an Information Technology student at Colegio De Sta
 
 <p align="center">
   <a href="https://github.com/jepnoda">
-    <img src="https://skillicons.dev/icons?i=js,java,arduino,mysql,firebase,nodejs,express,astro,react,tailwind,bootstrap,linux,bash,powershell&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,java,arduino,mysql,firebase,nodejs,express,astro,react,tailwind,bootstrap,linux,bash,powershell&perline=4" />
   </a>
 </p>
 
