@@ -1,8 +1,8 @@
-## 🔴 Jeperson Noda
+## 👨🏻‍💻 Jeperson Noda
 
 Hey there! I'm **Jeperson**, an Information Technology student at Colegio De Sta Teresa De Avila Inc. (CSTA) in Quezon City, Philippines. I am fascinated by the world of Web Development and captivated by the possibilities of the Internet of Things (IoT).
 
-## 🟠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://github.com/jepnoda">
@@ -10,7 +10,7 @@ Hey there! I'm **Jeperson**, an Information Technology student at Colegio De Sta
   </a>
 </p>
 
-## 🟡 GitHub Stats
+## 🏃🏻 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/jepnoda">
