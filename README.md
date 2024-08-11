@@ -1,6 +1,10 @@
 ## 👨🏻‍💻 Jeperson Noda
 
+Hey there! I'm **Jeperson**, a Software Engineer from Metro Manila, Philippines, with a deep passion for Web Development and a strong fascination with the limitless potential of the Internet of Things (IoT).
+
+<!--
 Hey there! I'm **Jeperson**, an Information Technology student at Colegio De Sta Teresa De Avila Inc. (CSTA) in Quezon City, Philippines. I am fascinated by the world of Web Development and captivated by the possibilities of the Internet of Things (IoT).
+-->
 
 ## 🛠️ Tech Stack
 
