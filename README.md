@@ -18,7 +18,7 @@ Hey there! I'm **Jeperson**, an Information Technology student at Colegio De Sta
 
 <p align="center">
   <a href="https://github.com/jepnoda">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepnoda&hide=html,css,scss,javascript&langs_count=8&hide_progress=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepnoda&hide=html,css,scss,javascript,ejs&langs_count=8&hide_progress=true" />
   </a>
 </p>
 
